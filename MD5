@@ -1,0 +1,16 @@
+0a767de97bf7af9687efbe442039e1c2 *DESCRIPTION
+d07e35064d1ee6b603e9eef2ef5f9699 *LICENSE
+d75f0511216ba09ead2a6ce1da99140c *NAMESPACE
+236fe1f071fc011cfa58798d06ef47a8 *R/split.R
+1294f0712df8c071b075d3e6e5a8052f *README.md
+a6c0e091b7d4f04f35a97c90ac3cdcaa *inst/extdata/12.xlsx
+60d9b4c235059e11cab086abf188f30b *inst/extdata/22.xlsx
+440eb5aff50ba9d97b01a26aa2f3fc0b *inst/extdata/222.xlsx
+cb0e7cf31dd67d6afe2b2a5128b7aea6 *inst/extdata/basic.xlsx
+48fd08d3cb673d5b9269d3484764321d *inst/extdata/datasets.xlsx
+36a1001ecba5117d911b51fcda87a1be *man/excel2eprime_example.Rd
+502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
+070e867e715750e6929ad5a638279e38 *man/split_12.Rd
+226f83c729b21c73222383bdba8955ed *man/split_22.Rd
+513a8afb01e261a7e8ada5b304069323 *man/split_222.Rd
+dc7833825083da8aff7d67d3b4161d9e *man/split_basic.Rd
